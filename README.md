@@ -3,8 +3,6 @@
 Introduction screen allow you to have a screen at launcher for example, where you can explain your app.
 This Widget is very customizable with a great design.
 
-Introduction_screen use another package, [dots_indicator](https://github.com/Pyozer/dots_indicator), that I also created.
-
 <img src="https://raw.githubusercontent.com/Pyozer/introduction_screen/master/demo/example.gif" width="270">
 
 ## Installation
